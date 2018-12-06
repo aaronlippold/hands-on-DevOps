@@ -7,6 +7,7 @@
 # Vagrant
 .vagrant/
 *.vdi
+*.box
 
-
-
+# InSpec
+inspec_hellworld.json
